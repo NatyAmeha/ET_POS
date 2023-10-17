@@ -1,0 +1,23 @@
+{
+  "add_new_customer": "Add new customer",
+  "customer_account": "Customer Account",
+  "customer_display": "Customer display",
+  "customer_display_one": "Customer display 1",
+  "customer_display_opened_successfully": "Customer display has been closed successfully",
+  "customer_display_sync_error_message": "Unable to sync cart info with customer display screen",
+  "customer_email_field_error": "Email is empty please fill",
+  "customer_name_field_error": "Name is empty please fill",
+  "customer_phone_field_error": "Email is empty please fill",
+  "edit_customer": "Edit Customer",
+  "no_customer_found": "No customer found",
+  "open_customer_display": "Open customer display",
+  "please_select_customer": "Please select the Customer",
+  "powered_by": "Powered by",
+  "search_customer": "Search customer",
+  "select_customer": "Select Customer",
+  "select_customer_description": "You need to select the customer before you can invoice or ship an order.",
+  "uanble_to_close_customer_display": "Unable to close customer display window",
+  "unable_to_get_customer": "Unable to get customers",
+  "unable_to_open_customer_display": "Unable to open customer display window",
+  "unable_to_update_customer": "Unable to update customer, please try again."
+}

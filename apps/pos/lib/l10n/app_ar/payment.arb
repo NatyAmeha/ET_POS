@@ -1,0 +1,18 @@
+{
+  "amount_returned": "Amount returned",
+  "paid": "Paid",
+  "paid_by_customer": "Paid by Customer",
+  "payment": "Payment",
+  "payment_method": "Payment method",
+  "payment_methods": "Payment methods",
+  "payments": "Payments",
+  "remaining_amount": "Remaining",
+  "returned_amount": "Returning",
+  "select_atlease_one_payment": "Please select at least one payment option",
+  "select_payment": "Select Payment",
+  "selected_payment": "Selected Payments",
+  "tendered_amount_is_less": "Tendered amount is less than Amount",
+  "total_amount": "Total amount",
+  "unable_to_get_payment_methods": "Unable to get payment methods",
+  "validate": "Validate"
+}

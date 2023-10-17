@@ -1,0 +1,16 @@
+{
+  "login": "Login",
+  "logout": "Logout",
+  "logout_description": "Do you want to logout from the app?",
+  "password": "Password",
+  "sign_in_description": "Sign in now and join hozma tech world",
+  "username": "Username",
+  "workspaceEnterUrl": "Enter your workspace’s HOZMA TECH URL",
+  "workspaceMessage": "to your workspace",
+  "workspaceNext": "Next",
+  "workspacePassword": "Enter your Password",
+  "workspaceSignin": "Sign in",
+  "workspaceUsername": "Enter your Username",
+  "workspaceWelcome": "Welcome to hozma.tech",
+  "your_workspace": "Your workspace"
+}
