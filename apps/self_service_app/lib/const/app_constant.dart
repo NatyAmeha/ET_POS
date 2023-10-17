@@ -1,7 +1,6 @@
 class AppConstant{
   static const String APP_NAME = "hozma.tech.";
   static const String DB_PREFIX_NAME = "Restaurant_Profile";
-  static const String BASIC_AUTH_KEY = 'Basic ZHVtbXlTZWNyZXRLZXk6ZHVtbXlTZWNyZXRLZXk=';
   static String? DEFAULT_CURRENCY_SYMBOL = "USD";
   static String? DEFAULT_CURRENCY_POSITION = "after";
 
