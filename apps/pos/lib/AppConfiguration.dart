@@ -8,8 +8,7 @@ class Configuration {
   static const String DEMO_PASSWORD = "";
 
   static const String BASE_URL = "http://192.168.0.102:8069";
-  static const String BASIC_AUTH_KEY =
-      'Basic ZHVtbXlTZWNyZXRLZXk6ZHVtbXlTZWNyZXRLZXk=';
+
   static const String API_KEY = 'dummySecretKey';
 
   static String DEFAULT_CURRENCY_SYMBOL = "USD";
